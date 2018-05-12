@@ -1,4 +1,8 @@
 _repo: Elegyes-gyujtesek-Magyarorszag-es-Erdely-kulonbozo-reszeibol-Nepkoltesi-gyujtemeny-1-kotet_47073
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Gyulai, Pál
@@ -15,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39683
     wikipedia: http://hu.wikipedia.org/wiki/Arany_L%C3%A1szl%C3%B3
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47073#Elegyes-gyujtesek-Magyarorszag-es-Erdely-kulonbozo-reszeibol-Nepkoltesi-gyujtemeny-1-kotet
 gutenberg_issued: '2014-10-07'
 gutenberg_type: Text
 identifiers:
